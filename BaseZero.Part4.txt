@@ -1,0 +1,181 @@
+
+RESET
+ X  E  D  E  E  E  E  D  E  E
+ E  W  W  E  E  E  E  W  W  E
+ D  W  E  W  D  E  W  E  W  D
+ E  E  E  D  D  D  E  E  E  E
+ E  D  W  E  D  E  W  D  D  E
+ E  E  E  W  E  W  E  E  E  E
+ E  E  E  W  E  W  E  E  E  E
+ D  W  E  W  D  E  W  E  W  D
+ E  W  W  E  E  E  E  W  W  E
+ E  E  D  E  E  E  E  D  E  Y
+
+Player 1 moving down
+Player 2 moving up
+ E  E  D  E  E  E  E  D  E  E
+ X  W  W  E  E  E  E  W  W  E
+ D  W  E  W  D  E  W  E  W  D
+ E  E  E  D  D  D  E  E  E  E
+ E  D  W  E  D  E  W  D  D  E
+ E  E  E  W  E  W  E  E  E  E
+ E  E  E  W  E  W  E  E  E  E
+ D  W  E  W  D  E  W  E  W  D
+ E  W  W  E  E  E  E  W  W  Y
+ E  E  D  E  E  E  E  D  E  E
+
+Player 1 moving up
+Player 2 moving down
+ X  E  D  E  E  E  E  D  E  E
+ E  W  W  E  E  E  E  W  W  E
+ D  W  E  W  D  E  W  E  W  D
+ E  E  E  D  D  D  E  E  E  E
+ E  D  W  E  D  E  W  D  D  E
+ E  E  E  W  E  W  E  E  E  E
+ E  E  E  W  E  W  E  E  E  E
+ D  W  E  W  D  E  W  E  W  D
+ E  W  W  E  E  E  E  W  W  E
+ E  E  D  E  E  E  E  D  E  Y
+
+Player 1 moving right
+Player 2 moving left
+ E  X  D  E  E  E  E  D  E  E
+ E  W  W  E  E  E  E  W  W  E
+ D  W  E  W  D  E  W  E  W  D
+ E  E  E  D  D  D  E  E  E  E
+ E  D  W  E  D  E  W  D  D  E
+ E  E  E  W  E  W  E  E  E  E
+ E  E  E  W  E  W  E  E  E  E
+ D  W  E  W  D  E  W  E  W  D
+ E  W  W  E  E  E  E  W  W  E
+ E  E  D  E  E  E  E  D  Y  E
+
+Player 1 moving left
+Player 2 moving right
+ X  E  D  E  E  E  E  D  E  E
+ E  W  W  E  E  E  E  W  W  E
+ D  W  E  W  D  E  W  E  W  D
+ E  E  E  D  D  D  E  E  E  E
+ E  D  W  E  D  E  W  D  D  E
+ E  E  E  W  E  W  E  E  E  E
+ E  E  E  W  E  W  E  E  E  E
+ D  W  E  W  D  E  W  E  W  D
+ E  W  W  E  E  E  E  W  W  E
+ E  E  D  E  E  E  E  D  E  Y
+
+Player 1 placing bomb
+Player 2 placing bomb
+ J  E  D  E  E  E  E  D  E  E
+ E  W  W  E  E  E  E  W  W  E
+ D  W  E  W  D  E  W  E  W  D
+ E  E  E  D  D  D  E  E  E  E
+ E  D  W  E  D  E  W  D  D  E
+ E  E  E  W  E  W  E  E  E  E
+ E  E  E  W  E  W  E  E  E  E
+ D  W  E  W  D  E  W  E  W  D
+ E  W  W  E  E  E  E  W  W  E
+ E  E  D  E  E  E  E  D  E  K
+
+Player 1 moving down
+Player 2 moving up
+ B  E  D  E  E  E  E  D  E  E
+ X  W  W  E  E  E  E  W  W  E
+ D  W  E  W  D  E  W  E  W  D
+ E  E  E  D  D  D  E  E  E  E
+ E  D  W  E  D  E  W  D  D  E
+ E  E  E  W  E  W  E  E  E  E
+ E  E  E  W  E  W  E  E  E  E
+ D  W  E  W  D  E  W  E  W  D
+ E  W  W  E  E  E  E  W  W  Y
+ E  E  D  E  E  E  E  D  E  B
+
+Player 1 moving up
+Player 2 moving down
+ B  E  D  E  E  E  E  D  E  E
+ X  W  W  E  E  E  E  W  W  E
+ D  W  E  W  D  E  W  E  W  D
+ E  E  E  D  D  D  E  E  E  E
+ E  D  W  E  D  E  W  D  D  E
+ E  E  E  W  E  W  E  E  E  E
+ E  E  E  W  E  W  E  E  E  E
+ D  W  E  W  D  E  W  E  W  D
+ E  W  W  E  E  E  E  W  W  Y
+ E  E  D  E  E  E  E  D  E  B
+
+Player 1 moving right
+Player 2 moving left
+ B  E  D  E  E  E  E  D  E  E
+ X  W  W  E  E  E  E  W  W  E
+ D  W  E  W  D  E  W  E  W  D
+ E  E  E  D  D  D  E  E  E  E
+ E  D  W  E  D  E  W  D  D  E
+ E  E  E  W  E  W  E  E  E  E
+ E  E  E  W  E  W  E  E  E  E
+ D  W  E  W  D  E  W  E  W  D
+ E  W  W  E  E  E  E  W  W  Y
+ E  E  D  E  E  E  E  D  E  B
+
+Player 1 moving left
+Player 2 moving right
+ B  E  D  E  E  E  E  D  E  E
+ X  W  W  E  E  E  E  W  W  E
+ D  W  E  W  D  E  W  E  W  D
+ E  E  E  D  D  D  E  E  E  E
+ E  D  W  E  D  E  W  D  D  E
+ E  E  E  W  E  W  E  E  E  E
+ E  E  E  W  E  W  E  E  E  E
+ D  W  E  W  D  E  W  E  W  D
+ E  W  W  E  E  E  E  W  W  Y
+ E  E  D  E  E  E  E  D  E  B
+
+Player 1 placing bomb
+Player 2 placing bomb
+ B  E  D  E  E  E  E  D  E  E
+ X  W  W  E  E  E  E  W  W  E
+ D  W  E  W  D  E  W  E  W  D
+ E  E  E  D  D  D  E  E  E  E
+ E  D  W  E  D  E  W  D  D  E
+ E  E  E  W  E  W  E  E  E  E
+ E  E  E  W  E  W  E  E  E  E
+ D  W  E  W  D  E  W  E  W  D
+ E  W  W  E  E  E  E  W  W  Y
+ E  E  D  E  E  E  E  D  E  B
+
+Waiting for explosion
+ B  E  D  E  E  E  E  D  E  E
+ X  W  W  E  E  E  E  W  W  E
+ D  W  E  W  D  E  W  E  W  D
+ E  E  E  D  D  D  E  E  E  E
+ E  D  W  E  D  E  W  D  D  E
+ E  E  E  W  E  W  E  E  E  E
+ E  E  E  W  E  W  E  E  E  E
+ D  W  E  W  D  E  W  E  W  D
+ E  W  W  E  E  E  E  W  W  Y
+ E  E  D  E  E  E  E  D  E  B
+
+Explosion
+NO ONE WINS!!!
+ C  C  C  E  E  E  E  D  E  E
+ O  W  W  E  E  E  E  W  W  E
+ C  W  E  W  D  E  W  E  W  D
+ E  E  E  D  D  D  E  E  E  E
+ E  D  W  E  D  E  W  D  D  E
+ E  E  E  W  E  W  E  E  E  E
+ E  E  E  W  E  W  E  E  E  E
+ D  W  E  W  D  E  W  E  W  C
+ E  W  W  E  E  E  E  W  W  O
+ E  E  D  E  E  E  E  C  C  C
+
+After Explosion
+Game has ended!
+ C  C  C  E  E  E  E  D  E  E
+ O  W  W  E  E  E  E  W  W  E
+ C  W  E  W  D  E  W  E  W  D
+ E  E  E  D  D  D  E  E  E  E
+ E  D  W  E  D  E  W  D  D  E
+ E  E  E  W  E  W  E  E  E  E
+ E  E  E  W  E  W  E  E  E  E
+ D  W  E  W  D  E  W  E  W  C
+ E  W  W  E  E  E  E  W  W  O
+ E  E  D  E  E  E  E  C  C  C
+BaseZero.Part4.v:2472: $finish called at 150 (1s)
